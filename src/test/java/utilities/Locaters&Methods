@@ -1,0 +1,24 @@
+
+Amazon ilk cookies = By.xpath("(//span[@class='a-button-inner'])[1]")
+Amazon AramaKutusu = By.id("twotabsearchtextbox")
+Amazon aramaSonucElementi =By.xpath("//h1[@class='a-size-base s-desktop-toolbar a-text-normal']")
+Amazon aramaSonucElementiS@  By.xpath("//div[@class='a-section a-spacing-small a-spacing-top-small']")
+Amazon dropDowndMenü =  By.xpath("//select[@id='searchDropdownBox']")
+
+
+Facebook ilk cookies = By.xpath("(//button[@value='1'])[3]")
+Facebook Create new account = By.xpath("(//a[@role='button'])[2]")
+Facebook Female radio = By.xpath("(//input[@type='radio'])[1]"));
+Facebook Male radio = By.xpath("(//input[@type='radio'])[2]"));
+Facebook Custome radio = By.xpath("(//input[@type='radio'])[3]"));
+
+
+herokuapp ddm = By.xpath("//select[@id='dropdown']")
+
+
+
+
+    === Web Siteleri ===
+
+https://the-internet.herokuapp.com/dropdown
+Automationexercise.com
